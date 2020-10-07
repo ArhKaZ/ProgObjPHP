@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:github/camarchaitjusquamtn" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="745b854e-c345-46b0-a6b2-2530ba230702" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/FROMAGE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modèle/ClassM/Avis.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modèle/ClassM/Membre.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modèle/ClassM/Pays.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modèle/ClassM/autoloader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modèle/ClassM/fromage.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modèle/Index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Model/Business/Personnage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../index.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="azer" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectId" id="1iDtPDLWbD8jrsrd5b3be7il4MN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ChangesTree.GroupingKeys" value="" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Bitnami\wampstack-7.4.6-1\apps\ClassPHP\htdocs\FROMAGE\Modèle\ClassM" />
+      <recent name="C:\Bitnami\wampstack-7.4.6-1\apps\ClassPHP\htdocs\FROMAGE\Modèle" />
+      <recent name="C:\Bitnami\wampstack-7.4.6-1\apps\ClassPHP\htdocs\FROMAGE\Modèle\Metier" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Connec" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="81">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="81">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="745b854e-c345-46b0-a6b2-2530ba230702" name="Default Changelist" comment="" />
+      <created>1601453963537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601453963537</updated>
+      <workItem from="1601453965583" duration="5696000" />
+      <workItem from="1602060196059" duration="835000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="github/camarchaitjusquamtn" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="667" y="182" key="#PHP" timestamp="1601454629001">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="182" key="#PHP/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601454629001" />
+    <state x="414" y="175" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601454630541">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601454630541" />
+    <state x="784" y="440" key="Github.CreateGistDialog" timestamp="1601458801998">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="784" y="440" key="Github.CreateGistDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601458801998" />
+    <state x="838" y="418" key="Github.ShareDialog" timestamp="1601458563135">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="838" y="418" key="Github.ShareDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601458563135" />
+    <state width="1877" height="325" key="GridCell.Tab.0.bottom" timestamp="1601459813912">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="325" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601459813912" />
+    <state width="1877" height="325" key="GridCell.Tab.0.center" timestamp="1601459813912">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="325" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601459813912" />
+    <state width="1877" height="325" key="GridCell.Tab.0.left" timestamp="1601459813912">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="325" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601459813912" />
+    <state width="1877" height="325" key="GridCell.Tab.0.right" timestamp="1601459813912">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="325" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601459813912" />
+    <state x="658" y="243" key="NewPhpClassDialog" timestamp="1601454136230">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="658" y="243" key="NewPhpClassDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601454136230" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1601454359966">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601454359966" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601458722780">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601458722780" />
+    <state x="832" y="364" key="cloudConfig.SelfSettingsDialog" timestamp="1601458512847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="832" y="364" key="cloudConfig.SelfSettingsDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601458512847" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601458699622">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601458699622" />
+  </component>
+</project>
